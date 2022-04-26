@@ -42,6 +42,6 @@ Tom Noonan (https://github.com/tnoonan88), Richard Murphy (https://github.com/ri
 # Test
 Tested on localhost
 # Github
-picks6
+richinatl
 # Email
-ZachPCodes@gmail.com
+richinatl@gmail.com
