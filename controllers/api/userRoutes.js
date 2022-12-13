@@ -38,6 +38,7 @@ router.delete('/:id', (req, res) => {
       });
   });
 
+  // post routes here, remove unused postRoutes.js file
 router.post('/', async (req, res) => {
   try {
     const userData = await User.create(req.body);
